@@ -4,5 +4,5 @@ n=((1,2,3),
    ("*",0,"#"))
 for num in n:
     for n in num:
-        print(n,end="")
+        print(n,end=" ")
     print()

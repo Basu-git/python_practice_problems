@@ -1,7 +1,6 @@
 n=int(input("Enter first n numbers: "))
 a=0
-for i in range(1,n):
-    a+=i
+while i==n:
     i+=1
-print(a)
+    print(a)
     
