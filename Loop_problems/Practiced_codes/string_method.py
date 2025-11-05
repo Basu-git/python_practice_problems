@@ -1,0 +1,6 @@
+n=input("Enter anything: ")
+print(n.capitalize())
+print(n.upper())
+print(n.lower())
+print(n.replace(" ","_"))
+print(n.strip())
