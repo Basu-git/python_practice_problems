@@ -1,1 +1,0 @@
-Print odd numbers from 1 to 50. using for loop

@@ -1,3 +1,1 @@
-#### 29. Count Words (Easy)
-#**Description:** Count words separated by spaces in a sentence.
-#**Example Input:** This is fun
+Print odd numbers from 1 to 50. using for loop
