@@ -3,9 +3,4 @@
 #**Example Input:** This is fun
 #**Expected Output (blueprint):** 3
 n=input("Enter a Sentence: ")
-count=0
-for i in n:
-    if i==" ":
-        continue
-        count+=1 
-print(count)       
+print(len(n.split()))
