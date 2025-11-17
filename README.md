@@ -23,7 +23,7 @@ List operations
 
 Loops & conditions
 
-Strings
+String
 
 Basic algorithms
 
