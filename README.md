@@ -34,5 +34,5 @@ Problem Number & Title
 
 Description: What the program should do.
 Logic: How we approach the problem.
-Python Code: Working solution.
+Python Code: Working solution..
 Example Input / Output: For testing.
