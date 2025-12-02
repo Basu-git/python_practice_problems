@@ -10,7 +10,7 @@ A short explanation of what the problem asks.
 How to think and solve it step-by-step.
 
 🧠 Python Solution...
-
+.
 Simple and clear code.
 
 🔵 Example Input & Expected Output
