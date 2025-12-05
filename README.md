@@ -1,7 +1,7 @@
 This document contains solved Python logic problems with clean explanations and sample code.
 Each problem includes:
 
-✅ Description..
+✅ Description...
 
 A short explanation of what the problem asks.
 
