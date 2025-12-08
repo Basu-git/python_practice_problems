@@ -12,7 +12,7 @@ How to think and solve it step-by-step.
 🧠 Python Solution.....
 .
 Simple and clear code.
-
+.
 🔵 Example Input & Expected Output
 
 To help you verify your solution.
